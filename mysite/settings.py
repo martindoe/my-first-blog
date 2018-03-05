@@ -25,11 +25,11 @@ SECRET_KEY = 'cjlc^*8ow-n+jg^c3la%yu&y9s_u-90v!jzt)-1w7edcy7^5#j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-<<<<<<< HEAD
-ALLOWED_HOSTS = ['127.0.0.1', 'http://martindoe.pythonanywhere.com']
+#<<<<<<< HEAD
+ALLOWED_HOSTS = ['127.0.0.1', 'martindoe.pythonanywhere.com']
 =======
-ALLOWED_HOSTS = ['127.0.0.1' , 'hppt://martindoe.pythonanywhere.com']
->>>>>>> c99d97c4c3ff98c3b78947b3e19a19535e9258ba
+#ALLOWED_HOSTS = ['127.0.0.1' , 'hppt://martindoe.pythonanywhere.com']
+#>>>>>>> c99d97c4c3ff98c3b78947b3e19a19535e9258ba
 
 
 # Application definition
